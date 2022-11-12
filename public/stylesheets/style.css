@@ -1,0 +1,19 @@
+.homeDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+};
+
+.links {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
+
+.workDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
